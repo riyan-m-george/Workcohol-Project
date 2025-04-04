@@ -6,9 +6,9 @@ A web application project with a story generator feature and backend services.
 
 The project is organized into the following main directories:
 
-- story-generator/ - Frontend application for story generation
-- backend/ - Backend services and API
-- node_modules/ - Project dependencies
+- `story-generator/` - Frontend application for story generation
+- `backend/` - Backend services and API
+- `node_modules/` - Project dependencies
 
 ## Technologies Used
 
@@ -26,19 +26,19 @@ The project is organized into the following main directories:
 ### Installation
 
 1. Clone the repository:
-bash
+```bash
 git clone [repository-url]
-
+```
 
 2. Install dependencies:
-bash
+```bash
 npm install
 # or
 yarn install
-
+```
 
 3. Start the backend server:
-bash
+```bash
 # Navigate to the backend directory
 cd "WORKCOHOL PROJECT/backend"
 
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 python app.py
 
 4. Start the story generator frontend:
-bash
+```bash
 # Navigate to the story-generator directory
 cd "WORKCOHOL PROJECT/story-generator"
 
@@ -80,9 +80,9 @@ Detailed documentation for each component will be added as the project develops.
 ## Contributing
 
 1. Fork the repository
-2. Create your feature branch (git checkout -b feature/AmazingFeature)
-3. Commit your changes (git commit -m 'Add some AmazingFeature')
-4. Push to the branch (git push origin feature/AmazingFeature)
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
 ## License
@@ -90,4 +90,4 @@ Detailed documentation for each component will be added as the project develops.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-Note: This README will be updated as the project evolves with more specific instructions and documentation.
+*Note: This README will be updated as the project evolves with more specific instructions and documentation.*
